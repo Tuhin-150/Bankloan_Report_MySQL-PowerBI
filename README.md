@@ -29,13 +29,16 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 12. Employee Length Analysis?
 13. Loan Purpose Breakdown?
 14. Home Ownership Analysis?
-
- ## Summary of Findings
+ 
+## Summary of Findings
 
  - Through the KPI card it has been shown that Total Loan Applications is 38.6k, Total funded amount is $435.8M, Total amount received is $473.1M, Average Interest Rate is 12.05%, and Average dti rate is 13.33%.
  - We have to create a comprehensive report that distinguishes between 'Good Loans' and 'Bad Loans' based on specific loan status criteria whereas good loan consist of fully paid and current loan, on the other hand bad loan consist of charged off.
  - According to loan status we comparison between Loan Applications, funded amount, amount received, Average Interest Rate, and Average dti rate by the help of Bar chart.
  - Across all 12 Month Total_Loan_Applications ranged from 2279 to 4314. ﻿At 4314, December had the highest Total_Loan_Applications and February which had the lowest Total_Loan_Applications at 2279.
  - Across all 50 state, The map displays Total_Loan_Applications ranged from 3 to 6894.﻿ ﻿At 6894, CA had the highest Total_Loan_Applications and ME which had the lowest Sum of Total_Loan_Applications at 3.
- - We have to shown the Total_Loan_Applications for  36 months (28237) was higher than  60 months (10339).
+ - Through the Donut Chart to understand the distribution of loans across various term lengths.We have to shown the Total_Loan_Applications for 36 months (28237) was higher than  60 months (10339).
+ - Bar Chart shows that How lending metrics are distributed among borrowers with different employment lengths and provide a visual breakdown of loan metrics based on the stated purposes of loans.
+ - Tree Map used for a hierarchical view of how home ownership impacts loan applications and disbursements, whereas Mortgage have the highest value than others.
+
  
