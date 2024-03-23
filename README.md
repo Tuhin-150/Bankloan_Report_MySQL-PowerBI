@@ -1,4 +1,4 @@
-# Bankloan_Report_MySQL-PowerBI
+# Bankloan_Report_SQL-PowerBI
 ![Untitled-2](https://github.com/Tuhin-150/Bankloan_Report_MySQL-PowerBI/assets/161159207/a205c1ed-c9fb-4ab8-9343-fafa228c8c98)
 
 ## Data Used
